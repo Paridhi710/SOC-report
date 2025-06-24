@@ -12,9 +12,10 @@ Python is an interpreted, object-oriented language created by Guido van Rossum. 
 
 ## Syntax
 Python syntax can be executed by writing directly in the Command Line:
+```python 
 >>> print("Hello, World!")
-Hello, World!
-
+>>> Hello, World!
+```
 ## Indentation
 Indentation refers to the spaces at the beginning of a code line.
 
@@ -37,9 +38,11 @@ Variables do not need to be declared with any particular type, and can even chan
 - You can get the data type of a variable with the type() function.
 - String variables can be declared either by using single or double quotes
 - Variable names are case-sensitive.
-   a = 4
-   A = "Sally"
-   #A will not overwrite a
+  ```python
+   >>> a = 4
+   >>> A = "Sally"
+   >>> #A will not overwrite a
+  ```
 
 ### Variable name
  A variable can have a short name (like x and y) or a more descriptive name (age, yourname, total_area).
