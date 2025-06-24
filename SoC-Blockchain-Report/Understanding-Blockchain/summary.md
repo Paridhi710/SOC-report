@@ -1,10 +1,4 @@
-# ⛓️ Understanding Blockchain
-
-Covered:
-- What is a block?
-- Hashing and SHA-256
-- Blockchain structure
-- Consensus mechanisms
+# Understanding Blockchain
 
 ## Blockchain – Introduction
 Blockchain is a decentralized and distributed digital ledger technology used to record transactions securely and transparently.
@@ -193,15 +187,3 @@ Proof of Work (PoW) is a consensus algorithm used to validate transactions and a
 It requires participants (miners) to solve complex mathematical puzzles.
 PoW ensures that network updates are agreed upon by the majority and are costly to alter.
 Although secure, PoW is energy-intensive and is being replaced by greener alternatives like Proof of Stake.
-
-
-
-### 🧪 Example Code:
-```python
-import hashlib
-
-def hash_block(data):
-    return hashlib.sha256(data.encode()).hexdigest()
-
-print(hash_block("block data"))
-```
