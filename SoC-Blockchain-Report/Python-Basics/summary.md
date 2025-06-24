@@ -3,9 +3,18 @@
 Covered:
 - Variables and Data Types
 - Input/Output
-- Conditional Statements (if/else)
+- Conditional Statements (if / else, match)
 - Loops (for, while)
-- Functions and Exception Handling
+- Functions and Exception Handling (def, lambda, try...except)
+- Strings (Basics, Escape Characters, Methods, Exercises, Formatting)
+- Booleans and Operators
+- Collections (List, Tuple, Set, Dictionary)
+- Scope and Modules
+- Dates and Math
+- JSON and Regular Expressions
+- PIP and Virtual Environments
+- Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
+- File Handling
 
  ## INTRODUCTION
 Python is an interpreted, object-oriented language created by Guido van Rossum. It supports multiple programming paradigms and is known for its clear syntax. Python powers applications in AI, data analysis, automation, and web development. Its large community and huge collection of libraries make it highly practical for solving real-world problems.
