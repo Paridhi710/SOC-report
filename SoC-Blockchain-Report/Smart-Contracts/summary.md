@@ -1,11 +1,5 @@
 # Smart Contracts
 
-Covered:
-- What is Solidity?
-- Smart contract structure
-- Deploying on Remix
-- Events and Functions
-
 ## What is a Smart Contract?
 A smart contract is a self-executing program that runs on a blockchain. It automatically performs actions when certain conditions are met—just like a digital "if-then" agreement.
 
