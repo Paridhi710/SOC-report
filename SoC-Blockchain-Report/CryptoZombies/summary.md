@@ -1,20 +1,9 @@
 # 🧟 CryptoZombies
 
-Covered:
-- Learn Solidity through gamified lessons
-- Creating and managing zombie structs
-- Inheritance and ERC721 concepts
+CryptoZombies is an interactive platform where we learn to build Ethereum-based DApps using Solidity, the programming language for smart contracts.
+we create your own Zombie game by writing smart contracts step-by-step in a fun, gamified format.
+The lessons start with basics like creating zombie DNA, naming zombies, and storing them on the blockchain.
+we then learn inheritance, modifiers, mappings, structs, and how to interact with users.
+The platform introduces Web3.js, showing how to connect smart contracts to a website frontend.
+we get hands-on practice deploying smart contracts and calling blockchain functions.
 
-### 🧪 Zombie Factory:
-```solidity
-pragma solidity ^0.8.0;
-
-contract ZombieFactory {
-    struct Zombie {
-        string name;
-        uint dna;
-    }
-
-    Zombie[] public zombies;
-}
-```
