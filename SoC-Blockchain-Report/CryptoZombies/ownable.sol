@@ -73,6 +73,5 @@ contract Ownable {
     _owner = newOwner;
   }
 }
-
   
   
