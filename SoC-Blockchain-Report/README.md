@@ -1,7 +1,7 @@
 # SoC Blockchain Report
 
-This repository tracks my learning and progress during the Summer of Code. I have explored Python, Blockchain, Smart Contracts, and Web3.
-
+This repository tracks my learning and progress during the Summer of Code. I have explored Python, Blockchain, Smart Contracts,cryptozombies(till level 2 of solidity) and Web3.
+I have provided a summary for each topics covered.
 ---
 
 ##  Topics Covered
