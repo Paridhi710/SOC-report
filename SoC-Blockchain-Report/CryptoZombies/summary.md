@@ -7,3 +7,5 @@ we then learn inheritance, modifiers, mappings, structs, and how to interact wit
 The platform introduces Web3.js, showing how to connect smart contracts to a website frontend.
 we get hands-on practice deploying smart contracts and calling blockchain functions.
 
+Till now I have completed level 1 and level 2 of solidity track.
+
