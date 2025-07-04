@@ -15,7 +15,7 @@ I have provided a summary for each topics covered.
 ### 3. [Smart Contracts](./Smart-Contracts/summary.md)
 
 
-### 4. [CryptoZombies](./CryptoZombies/summary.md)
+### 4. [CryptoZombies](./CryptoZombies/!_summary.md)
 
 ### 5. [Web3 Tech Stack](./Web3-Tech-Stack/summary.md)
 
