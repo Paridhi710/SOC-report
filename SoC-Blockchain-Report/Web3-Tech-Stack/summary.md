@@ -1,18 +1,15 @@
-# 🌐 Web3 Tech Stack
+#  Web3 Tech Stack
 
-Covered:
-- Web3.js vs Ethers.js
-- Connecting with Metamask
-- Interacting with Smart Contracts from frontend
+## What is Web3?
+Web3 moves beyond Web1 (static websites) and Web2 (interactive platforms) to become the “internet of value.”
+It enables decentralized applications (dApps) where users control their data and identity—no more reliance on companies like Google or Facebook.
+Key advantages include ownership, composability (apps working together), and enhanced trust and reliability. 
 
-### 🧪 Example DApp Code:
-```javascript
-const ethers = require("ethers");
-async function connect() {
-    if (window.ethereum) {
-        await window.ethereum.request({ method: "eth_requestAccounts" });
-        const provider = new ethers.providers.Web3Provider(window.ethereum);
-        console.log("Connected!", provider);
-    }
-}
-```
+## Web3 Architecture Overview
+The frontend (e.g. React/Next.js) mirrors Web2, but the backend shifts to:
+Blockchain nodes instead of centralized servers
+Off-chain storage, like IPFS
+Wallets/private-key auth for user identity and security 
+
+
+
