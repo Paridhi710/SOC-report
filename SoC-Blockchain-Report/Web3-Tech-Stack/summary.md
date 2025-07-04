@@ -7,9 +7,9 @@ Key advantages include ownership, composability (apps working together), and enh
 
 ## Web3 Architecture Overview
 The frontend (e.g. React/Next.js) mirrors Web2, but the backend shifts to:
-Blockchain nodes instead of centralized servers
-Off-chain storage, like IPFS
-Wallets/private-key auth for user identity and security 
+-- Blockchain nodes instead of centralized servers
+-- Off-chain storage, like IPFS
+-- Wallets/private-key auth for user identity and security 
 
 
 
